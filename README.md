@@ -12,12 +12,9 @@ Step 2: Right-click on the project name and select New->RESTful Web Services fro
 ![image](https://github.com/Mena-Rossini/Ex-04_RESTful_Web_Services/assets/102855266/a45e9a94-15c0-4f25-8af8-0f9290928969)
 
 
-
-
 Step 3: A new window will appear. Select “Simple Root Resource” and click Next.
  
 ![image](https://github.com/Mena-Rossini/Ex-04_RESTful_Web_Services/assets/102855266/8c46f626-a53a-4148-9f8d-ae227b1555e9)
- 
 
 
 Step 4: In the next window, give a Resource Package name and choose MIME Type as “text/html”. Click Finish.
@@ -26,7 +23,9 @@ Step 4: In the next window, give a Resource Package name and choose MIME Type as
 
 
 Step 5: Two editing tabs will appear. Close “ApplicationConfig.java”. You need to write all your required functionalities in GenericResource.java.
+
 Step 6: Alter getHtml() method as shown below.
+
 Step 7: Save your project, clean and build it. Deploy your project.
  
 ![image](https://github.com/Mena-Rossini/Ex-04_RESTful_Web_Services/assets/102855266/5d8e1073-f6f0-4928-a147-bbef9be2bf06)
