@@ -84,8 +84,12 @@ To create, deploy and execute RESTful Web service programs using Server, Client 
 **Step 11**: Save the project and build it.
 
 **Step 12**: Run the JSP file and you should see the output in a new browser window.
+
+
  
 ![image](https://github.com/Mena-Rossini/Ex-04_RESTful_Web_Services/assets/102855266/f495b738-83a4-452b-824e-9e7a81515133)
+
+
 
 
 
