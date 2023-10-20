@@ -5,7 +5,7 @@ To create, deploy and execute RESTful Web service programs using Server, Client 
 ## Procedure:
 
 ### Server side:
-Step 1: Create a new Java Web Project. Follow Steps 1-5 as in SOAP Based Web Service.
+**Step 1**: Create a new Java Web Project. Follow Steps 1-5 as in SOAP Based Web Service.
 
 Step 2: Right-click on the project name and select New->RESTful Web Services from Patterns.
 
@@ -94,7 +94,9 @@ Client-Side Remote Invocation:
 
 
 Step 1: Follow steps 1-5 as in Section 2.2
+
 Step 2: In the generated NewJerseyClient.java file, Replace BASE_URI from private static final String BASE_URI = "http://localhost:8080/RESTful_Server/webresources"; TO private static final String BASE_URI = "http://192.168.116.62:8080/RESTful_Server/webresources";
+
 Step 3: Follow steps 6-12 as in Section 2.2
 
 
